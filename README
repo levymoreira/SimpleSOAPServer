@@ -1,4 +1,4 @@
-Exemplo de uso do JAX RS - Servidor
+Exemplo de uso do JAX WS - Servidor
 
 Ambiente: TOMCAT, Eclipse LunaRelease (4.4.0) 
 
@@ -8,7 +8,7 @@ Copie as libs do JAX-WS RI para tomcat_home/lib
 Link: http://repo.maven.apache.org/maven2/com/sun/xml/ws/jaxws-ri/2.2.8/jaxws-ri-2.2.8.zip
 
 2-
-Faça o deploy do projeto no tomcat
+FaÃ§a o deploy do projeto no tomcat
 
 3-
 Acesse a URL
